@@ -3,7 +3,10 @@
 
 Estudio la licenciatura en ciencias de la computación y la tecnicatura universitaria en desarrollo web en la Universidad Nacional del Comahue.
 Estoy buscando Trabajo como desarrollador java trainee.
-Me interesa el desarrollo backend en java y el desarrollo de apps android
+Me interesa el desarrollo backend en java y el desarrollo de apps android.
+
+Hice el curso:
+ - BootCamp Java Developer - Digit@lers - EducaciónIT - Telecom - 130HS
 
 Habilidades: JAVA / SPRING 
 
