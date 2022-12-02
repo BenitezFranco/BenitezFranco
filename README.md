@@ -1,6 +1,5 @@
 ### Hola 👋, Soy Franco
 #### Estudiante Universitario
-![Estudiante Universitario](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Estudio la licenciatura en ciencias de la computación y la tecnicatura universitaria en desarrollo web en la Universidad Nacional del Comahue.
 Estoy buscando Trabajo como desarrollador java trainee.
@@ -16,4 +15,6 @@ Habilidades: JAVA / SPRING
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BenitezFranco)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/franco-benitez-579268259/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenitezFranco)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
